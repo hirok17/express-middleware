@@ -4,8 +4,8 @@ This repository demonstrates the usage of middleware in an Express.js applicatio
 
 ## Features
 
-- [Express.js setup with middleware]
+- Express.js setup with middleware
 
-- [Error handling middleware]
+- Error handling middleware
 
-- [cookie-parser integration]
+  - cookie-parser integration
