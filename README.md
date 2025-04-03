@@ -8,4 +8,4 @@ This repository demonstrates the usage of middleware in an Express.js applicatio
 
 - Error handling middleware
 
-  - cookie-parser integration
+- cookie-parser integration
